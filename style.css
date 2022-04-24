@@ -244,7 +244,17 @@ h1{
   background: #3B5998;
   color: white;
 }
-.fa-pintrest {
+.fa-linkedin {
   background: #3B5998;
   color: white;
+}
+
+
+.media .fa{
+  color: white;
+}
+.media .fa{
+  padding-right: 20px;
+  font-size: 15px;
+  text-decoration: none;
 }
