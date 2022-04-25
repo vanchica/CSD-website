@@ -7,11 +7,18 @@
 .header{
   height:100%;
   background-image: url(images/IGDTUW.jpg);
+  
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   padding-top: 20px;
   text-align:center;
+}
+
+.header-highlights{
+  background:rgba(23, 23, 23, 0.6);
+  text-align: center;
+  color: #fff;
 }
 
 .header .igdtuw-logo{
@@ -44,6 +51,19 @@
   margin: 18px 0;
 
 }
+
+.sustain{
+  padding: 0px 75px;
+  font-size: 20px;
+}
+
+
+.sustain-link{
+  display: flex;
+  justify-content: right;
+  color:#6de4ff;
+  font-size: 18px;
+} 
 
 .features{
   padding: 100px 0;
@@ -257,4 +277,9 @@ h1{
   padding-right: 20px;
   font-size: 15px;
   text-decoration: none;
+}
+
+.sakhi-mail{
+  text-decoration: none;
+  color: white;
 }
